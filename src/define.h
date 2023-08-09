@@ -1,7 +1,7 @@
 #pragma once
 
 // Load the configuration details
-#include "config/config.h"
+#include "config/config.sample.h""
 
 // pin map
 #include "config/pins.h"
